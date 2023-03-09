@@ -42,7 +42,7 @@ The BG/NBD model calculates the expected number of transactions. This model mode
 
 Transcation Process (buy) + Dropout Process (till you die)
 
-#### Transaction Process (Buy)
+### Transaction Process (Buy)
 
 During the customer is alive, the number of will have made by the customer, will be distributed poison by transaction rate parameter.
 
@@ -50,7 +50,7 @@ While the customer is alive, they will continue to make purchases at their own t
 
 The transaction rates will differ for each client, and they will be distributed according to the gamma distribution with parameters r and α.
 
-#### Dropout Process (Till You Die)
+### Dropout Process (Till You Die)
 
 Each customer has their own dropout rate by p probability.
 
@@ -59,7 +59,7 @@ The customer will be a dropout by p probability.
 Dropout rates will change for each customer and they will be distributed beta (a,b) for the mass.
 
 
-#### Formula
+### Formula
 
 E = Expected Value
 
@@ -89,7 +89,7 @@ Y(t) = expected number of transactions for each customer.
 
 *The average transaction value is gamma distributed among all customers.
 
-#### Formula
+### Formula
 
 E = expected value
 
