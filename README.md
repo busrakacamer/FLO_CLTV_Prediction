@@ -8,7 +8,7 @@ Knowing the CLV helps businesses develop strategies to acquire new customers and
 
 FLO wants to determine roadmap for sales and marketing activities. In order for the company to make a medium long -term plan, it is necessary to estimate the potential value that existing customers will provide to the company in the future.
 
-##Features of Dataset
+## Features of Dataset
 
 Total Features : 12
 
