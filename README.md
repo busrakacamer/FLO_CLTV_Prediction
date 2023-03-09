@@ -4,6 +4,8 @@ Customer lifetime value (CLV) is the total amount of money a customer is expecte
 
 Knowing the CLV helps businesses develop strategies to acquire new customers and retain existing ones while maintaining profit margins.
 
+![Ekran görüntüsü 2023-03-09 222320](https://user-images.githubusercontent.com/121626776/224134409-9dc9ab33-aa65-4332-91e5-581b992894f5.png)
+
 ## Business Problem
 
 FLO wants to determine roadmap for sales and marketing activities. In order for the company to make a medium long-term plan, it is necessary to predict the potential value that existing customers will provide to the company in the future.
