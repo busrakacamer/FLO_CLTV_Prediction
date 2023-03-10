@@ -101,7 +101,6 @@ M = expected value of transactions (expected average profit)
 
 p,q,γ = comes from the gamma distribution
 
-![Ekran görüntüsü 2023-03-09 221519](https://user-images.githubusercontent.com/121626776/224131338-75b27bf2-6e9c-4665-bbe1-d0b295139366.png)
-
+![image](https://user-images.githubusercontent.com/121626776/224340597-6abc6720-cf9f-4fc0-88b3-f5268f7d860c.png)
 
  
